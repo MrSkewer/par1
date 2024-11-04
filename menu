@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Irland dark beer",
+        "type": "Bevarage",
+        "price": 280,
+        "image": "https://i.ibb.co/fYjQhXC/4ran-dark-beer.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Crackers for beer",
+        "type": "Food",
+        "price": 320,
+        "image": "https://i.ibb.co/hVWnYdT/4ran-crackers-for-beer.jpg"
+    }
+]
